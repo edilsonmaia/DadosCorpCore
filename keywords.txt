@@ -1,0 +1,19 @@
+# Syntax highlighting for Arduino IDE
+
+DadosCorpCore	KEYWORD1
+DadosCorpCommandCallback	KEYWORD1
+
+configure	KEYWORD2
+authHeader	KEYWORD2
+ackBody	KEYWORD2
+addCommand	KEYWORD2
+addVariable	KEYWORD2
+onCommand	KEYWORD2
+parseCommand	KEYWORD2
+getLastHttpCode	KEYWORD2
+getLastErrorCode	KEYWORD2
+getLastErrorMessage	KEYWORD2
+info	KEYWORD2
+setDebug	KEYWORD2
+deviceType	KEYWORD2
+metadataBody	KEYWORD2
